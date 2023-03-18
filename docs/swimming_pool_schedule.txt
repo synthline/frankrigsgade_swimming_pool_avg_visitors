@@ -1,0 +1,6 @@
+Mandag	06:00 - 20:00
+Tirsdag	08:00 - 16:00
+Onsdag	06:00 - 19:00
+Torsdag	06:00 - 19:30
+Fredag	06:00 - 16:00
+Lørdag - Søndag	09:00 - 15:00
